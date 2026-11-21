@@ -1,16 +1,13 @@
 # Fdb version 4
-["pdflatex"] 1794826562.6727 "/home/anwesha/Documents/Resume/cv_anwesha.tex" "cv_anwesha.pdf" "cv_anwesha" 1794826563.87576 0
+["pdflatex"] 1795230857.50245 "/home/anwesha/Documents/Resume/cv_anwesha.tex" "cv_anwesha.pdf" "cv_anwesha" 1795230858.4965 0
   "/etc/texmf/web2c/texmf.cnf" 1793353221.25622 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/anwesha/Documents/Resume/cv_anwesha.tex" 1794826562.46622 13354 9fba30a9846e4bca145bc10c2e97ebdf ""
-  "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
+  "/home/anwesha/Documents/Resume/cv_anwesha.tex" 1795230857.19001 14218 ba42d56319d4b3c6425b1320c0484280 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1622837620 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5brands0.tfm" 1651520503 1380 a61d7c2860b3f6d342213a6b9b229e9e ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1regular.tfm" 1622837620 1204 3c27bf26105e0c1f2d31dba92f1c652d ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm" 1622837620 1316 1c2ee668ea88be9bd4f39690662cc344 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5free2solid.tfm" 1622837620 1340 b21002f38a477f345fa9dc96a5613e2b ""
-  "/usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb" 1651520503 204258 177851ae99767090543ae24e73c92f2f ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb" 1651520503 58496 99faf1e070706908acf67d1cfee72833 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb" 1651520503 295323 d099723373a00cc17d5ae0c9738bb5b3 ""
   "/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -54,7 +51,6 @@
   "/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/fontawesome5-generic-helper.sty" 1651520503 1796 6d3390e7a3f2a0f63ce89532aa30ac20 ""
   "/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/fontawesome5-mapping.def" 1651520503 107808 07e47606922c76b1824e149c54155c4c ""
   "/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty" 1651520503 8112 16dbb19fca3f2df864fea49874356f35 ""
-  "/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd" 1651520503 1206 b35c804e364d46e802702be118632c48 ""
   "/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd" 1651520503 980 1b42613a5245ed252c04030af746d737 ""
   "/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd" 1651520503 980 38ce61da47d1ba16e56a2e312b56a515 ""
   "/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty" 1578002852 41601 9cf6c5257b1bc7af01a58859749dd37a ""
@@ -123,8 +119,8 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1769369718 41603 27f93b3067076450172040dcd57ca8b3 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1793353890 5541477 3118940318599480888143717dd32d64 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1793354086 3638253 f73cbb453982482d852150f465a1b338 ""
-  "cv_anwesha.aux" 1794826563.73222 1745 45d58a3f932a85f5b3132e063d983327 "pdflatex"
-  "cv_anwesha.tex" 1794826562.46622 13354 9fba30a9846e4bca145bc10c2e97ebdf ""
+  "cv_anwesha.aux" 1795230858.38127 1971 d9616e6add6621ce9c68cf4f91bb5446 "pdflatex"
+  "cv_anwesha.tex" 1795230857.19001 14218 ba42d56319d4b3c6425b1320c0484280 ""
   (generated)
   "cv_anwesha.aux"
   "cv_anwesha.log"

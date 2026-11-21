@@ -187,10 +187,6 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1regular.tfm
-INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5brands0.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/lm/rm-lmbx12.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/lm/rm-lmri10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/lm/rm-lmr7.tfm
@@ -218,10 +214,8 @@ INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc
-INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc
 INPUT /usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc
 INPUT cv_anwesha.aux
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb
