@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1795230857.50245 "/home/anwesha/Documents/Resume/cv_anwesha.tex" "cv_anwesha.pdf" "cv_anwesha" 1795230858.4965 0
+["pdflatex"] 1795231689.59612 "/home/anwesha/Documents/Resume/cv_anwesha.tex" "cv_anwesha.pdf" "cv_anwesha" 1795231690.78414 0
   "/etc/texmf/web2c/texmf.cnf" 1793353221.25622 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/anwesha/Documents/Resume/cv_anwesha.tex" 1795230857.19001 14218 ba42d56319d4b3c6425b1320c0484280 ""
+  "/home/anwesha/Documents/Resume/cv_anwesha.tex" 1795231689.32509 14041 ea6a0823cd6e2de0ec81461eb882ce77 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1622837620 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -119,8 +119,8 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1769369718 41603 27f93b3067076450172040dcd57ca8b3 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1793353890 5541477 3118940318599480888143717dd32d64 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1793354086 3638253 f73cbb453982482d852150f465a1b338 ""
-  "cv_anwesha.aux" 1795230858.38127 1971 d9616e6add6621ce9c68cf4f91bb5446 "pdflatex"
-  "cv_anwesha.tex" 1795230857.19001 14218 ba42d56319d4b3c6425b1320c0484280 ""
+  "cv_anwesha.aux" 1795231690.65982 1971 042c4e7033c2f34bbd97b6c9041064c6 "pdflatex"
+  "cv_anwesha.tex" 1795231689.32509 14041 ea6a0823cd6e2de0ec81461eb882ce77 ""
   (generated)
   "cv_anwesha.aux"
   "cv_anwesha.log"
